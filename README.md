@@ -13,8 +13,7 @@ The Dataset and its related files are available in the [Google Drive](https://dr
 
 ## Code
 
-All the required code is in above Jupyter Notebook (.ipynb) file.
-
+All the required code is in the following Google Colab accessible to all: https://colab.research.google.com/drive/1cwtH1rjAFYpxWcP6q_59eC-u6pqQYkcW?usp=sharing
 We can run all the cells in the colab file with copying the dataset from the given drive link to the desired location (for not changing any code) or any desired location and importing it accordingly.
 
 ## Results
