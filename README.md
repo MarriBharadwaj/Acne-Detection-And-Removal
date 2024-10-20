@@ -13,7 +13,7 @@ The Dataset and its related files are available in the [Google Drive](https://dr
 
 ## Code
 
-All the required code is in the [Colab File](https://github.com/VinayN18/Acne-Detection-And-Removal/blob/main/B21AI023_B21CS031_B21CS045_B21CS063.ipynb)
+All the required code is in above Jupyter Notebook (.ipynb) file.
 
 We can run all the cells in the colab file with copying the dataset from the given drive link to the desired location (for not changing any code) or any desired location and importing it accordingly.
 
